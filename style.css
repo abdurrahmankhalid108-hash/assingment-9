@@ -546,6 +546,8 @@ footer {
 .search-in-daraz input {
     height: 18px;
     width: 200px;
+    border:radius;
+    
 }
 .head-search1{
      display: flex;
@@ -1008,4 +1010,5 @@ position: fixed;
 right: 120px;
 bottom: 10px;
 }
+
 }
